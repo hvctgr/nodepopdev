@@ -1,4 +1,11 @@
 
+# Devops Module information
+
+**Public DNS (IPv4):** ec2-3-17-207-237.us-east-2.compute.amazonaws.com
+
+**IPv4 Public IP:** 3.17.207.237
+
+
 # NodePop
 
 [Demo](/anuncios) of the methods (this link works only if you run the project)
